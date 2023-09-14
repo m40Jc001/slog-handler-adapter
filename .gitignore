@@ -1,0 +1,11 @@
+# mac filesystem describe file
+.DS_Store
+
+*.log
+
+# vscode workspace setting
+.vscode
+
+# go workspace
+go.work
+go.work.sum
